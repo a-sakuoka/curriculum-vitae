@@ -80,7 +80,7 @@
 	・Elastic Container Registry（ECR）
 	・Elastic Container Service（ECS）	・・・ECS on EC2構成での運用
 	・Elastic Kubernetes Service（EKS）
-	・Fargate							・・・ECS on Fargate構成での運用
+	・Fargate	・・・ECS on Fargate構成での運用
 
 	《ストレージ》
 	・S3
@@ -123,7 +123,7 @@
 	《ビジネスアプリケーション》
 	・Amazon Simple Email Service（SES）
 
-【その他】
+	《その他》
 	・Docker
 	・Kubernetes（k8s）
 	・Wordpress
@@ -133,7 +133,17 @@
 	・Chatwork
 	・Notion
 	・Backlog
+等
+</details>
+
+<details>
+<summary><strong>ネットワーク</strong></summary>
     
+|OS|経験年数|レベル|
+|---|-----|-----|
+| L2Switch | 3年〜 | 人に教えられる |
+| Cisco Catalyst | 2年〜 | ある程度教えられる |
+
 等
 </details>
 
@@ -142,18 +152,23 @@
     
 |OS|経験年数|レベル|
 |---|-----|-----|
-| Oracle | 4年〜 | ある程度できる |
+| Arcserve | 10年〜 | 人に教えられる |
+| Systemwalker | 8年〜 | 人に教えられる |
+| JP1 | 3ヶ月 | 人に教えられる |
+| a | 1年〜 | 人に教えられる |
+等
+</details>
+
+<details>
+<summary><strong>データベース</strong></summary>
+    
+|OS|経験年数|レベル|
+|---|-----|-----|
+| Oracle | 4年 | ある程度できる |
 | SQL Server | 半年 | 少しできる |
 | MySQL | 半年 | 少しできる |
 | PostgreSQL | 半年 | 少しできる |
 | Access | 半年 | 人に教えられる |
-| L2Switch | 3年〜 | 人に教えられる |
-| Cisco Catalyst | 2年〜 | ある程度教えられる |
-| Arcserve | 10年〜 | 人に教えられる |
-| Systemwalker | 8年〜 | 人に教えられる |
-| a | 1年〜 | 人に教えられる |
-| a | 1年〜 | 人に教えられる |
-等
 </details>
 
 <details>
