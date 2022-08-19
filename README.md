@@ -33,6 +33,14 @@
 
 ### エンジニアリング
 - インフラエンジニア（サーバエンジニア）
+　・要件定義
+　・基本設計
+　・詳細設計
+　・構築
+　・単体/結合/統合テスト
+　・運用保守
+ 
+ 　上記を主に経験。
 
 ### Web制作
 - Webサイト・デザイン制作
@@ -66,9 +74,11 @@
 | CentOS | 15年 | 人に教えられる |
 | VMware | 11年 | ある程度できる |
 | Hyper-V | 3年 | 人に教えられる |
+| Citrix | 1年 | 少しできる |	
 | AWS | 1年 | ※1 |
 
 ※1 ・・・ 	
+	
 	《コンピューティング》
 	・EC2（Linux）
 	・LaunchTemplate
@@ -141,6 +151,16 @@
 </details>
 
 <details>
+<summary><strong>ハードウェア</strong></summary>
+    
+|OS|経験年数|レベル|
+|---|-----|-----|
+| 富士通製品（PRIMERGY/IPCOM/PRIMECLUSTER GDS/Interstage） | 12年 | 人に教えられる |
+
+等
+</details>
+
+<details>
 <summary><strong>ソフトウェア・ミドルウェア</strong></summary>
     
 |OS|経験年数|レベル|
@@ -150,10 +170,17 @@
 | Acronis Cyber Protect | 1年 | ある程度できる | 
 | Systemwalker | 8年 | 人に教えられる |
 | JP1 | 3ヶ月 | 人に教えられる |
+| AssetViewP | 半年 | 人に教えられる |
+| SKY Menu | 半年 | 少しできる |
+| PowerChute（UPS制御） | 2年 | 人に教えられる |
 | Docker | 1年 | ある程度できる |
+| corosync | 半年 | ある程度できる |　※ リソース制御管理サーバ（Pacemaker+DRBD+corosync+Quota）
+| Pacemaker | 半年 | ある程度できる |
+| DRBD | 半年 | ある程度できる |
+| Quota) | 半年 | ある程度できる |	
 | Wordpress | 2年 | 人に教えられる |
 | Github | 半年 | ある程度できる |
-	
+
 等
 </details>
 
@@ -162,7 +189,7 @@
     
 |OS|経験年数|レベル|
 |---|-----|-----|
-| Oracle | 4年 | ある程度できる |
+| Oracle | 4年 | ある程度できる（インスタンス設計・構築など） |
 | SQL Server | 半年 | 少しできる |
 | MySQL | 半年 | 少しできる |
 | PostgreSQL | 半年 | 少しできる |
