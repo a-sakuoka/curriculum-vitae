@@ -46,7 +46,6 @@
 - PCキッティング
 
 ## スキル
-
 <details>
 <summary><strong>プログラム言語</strong></summary>
     
@@ -66,7 +65,7 @@
 
 <details>
 <summary><strong>プラットフォーム</strong></summary>
-    
+
 |OS|経験年数|レベル|
 |---|-----|-----|
 | WindowsServer | 15年 | 人に教えられる |
@@ -158,6 +157,7 @@
 |OS|経験年数|レベル|
 |---|-----|-----|
 | 富士通製品（PRIMERGY/IPCOM/PRIMECLUSTER GDS/Interstage/GLOVIA） | 12年 | 人に教えられる |
+| Lenovo製品 | 3年 | 人に教えられる |
 
 等
 </details>
