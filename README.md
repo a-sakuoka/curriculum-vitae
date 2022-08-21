@@ -11,10 +11,10 @@
 - [自己PR](#自己pr) 
 
 ## 基本情報
-**Atsushi Sakuoka**  
-
 |媒体|リンク|
 |---|-----|
+|名前|Atsushi Sakuoka|
+|活動地域|大阪市内|
 |mail|s.atsushi999@gmail.com|
 
 ## 学歴・職歴
