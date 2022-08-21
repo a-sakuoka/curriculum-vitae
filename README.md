@@ -234,7 +234,7 @@
 また営業支援による見積り対応や営業同行に実施。保守は主にリモートでの対応となりますが、オンサイト保守も実施。・参画しているSler様の企業としての売上UP施策や新規サービス策定に向けた取り組みの主担当として様々な提案を実施して参りました。
 
 【発揮したバリュー】
-aaaaaa
+- aaaaaa
 
 ### 【Sler】システムリプレイス【Hyper-V/WindowsServer/Linux】(2019年11月-12月（2ヶ月）)<br>
 【プロジェクト概要】リース満了に伴い、基幹サーバシステムの老朽化更新<br>
@@ -247,6 +247,9 @@ WindowsServer2016 Std(ホストOS:4台、ゲストOS:8台)　[ホストA(アク�
 障害時にはレプリケーションしてレプリカサーバで稼働する仕様。<br>
 ミドル：以下組み合わせによるLinuxHA環境　OracleDatabae12c、RDS(リモートデスクトップ管理)　DNS、AD(ドメイン管理)、CitrixXenApp
 
+【発揮したバリュー】
+- aaaaaa
+
 ### 【Sler】システムリプレイス（電力系）【GCP/Linux/DRBD/corosync/NFS/Quota/Pacemaker/DRBDProxy】(2019年5月-10月（6ヶ月）)<br>
 【プロジェクト概要】リース満了に伴い、NASサーバシステムの老朽化更新<br>
 ［担当業務］基本設計、詳細設計、環境構築、テスト、運用支援<br>
@@ -256,6 +259,9 @@ WindowsServer2016 Std(ホストOS:4台、ゲストOS:8台)　[ホストA(アク�
 - クラウド基盤(御客様先管理の為、詳細不明(VMware）)<br>
 OS：　Centos7(第二大阪2台、兵庫統括2台)<br>
 ミドル：以下組み合わせによるLinuxHA環境　DRBD9 (DISK冗長化)　Corosync (クラスタ構成サーバ間ノード死活監視)　NFS (NASサーバ公開ディレクトリ)　DISKクォータ(アカウント毎のDISK使用値制限)　Pacemaker (リソース制御管理)　DRBD Proxy (拠点間レプリケーション[大阪-兵庫])
+
+【発揮したバリュー】
+- aaaaaa
 
 ### 【Sler】システムリプレイス（公共[警察]）【VMware/WindowsServer/AssetViewP】(2018年10月-2019年3月（6ヶ月）)<br>
 【プロジェクト概要】リース満了に伴い、基幹システムの老朽化更新<br>
@@ -361,7 +367,7 @@ OS：　Centos7(第二大阪2台、兵庫統括2台)<br>
 - GLOVIA SUMMITV6 (導入)
 - SystemwalkerOperationManager (導入 / 設定)、OracleDatabase11g (導入 / 設定)、HULFT7 (導入)、NetCOBOL (導入)
 
-### 【Sler】システムリプレイス（石油）【】(2012年6月-7月（2ヶ月）)<br>
+### 【Sler】システムリプレイス（石油）【WindowsServer/Oracle】(2012年6月-7月（2ヶ月）)<br>
 【プロジェクト概要】リース満了に伴い、新用品販売システムの老朽化更新<br>
 ［担当業務］基本設計<br>
 - Oracle11g database(設計)
@@ -374,6 +380,7 @@ OS：　Centos7(第二大阪2台、兵庫統括2台)<br>
 
 ## 副業経歴
 #### メンター・コーチ
+- インフラ・コーチング
 - WEBコーディング・コーチング
 
 ## 自己PR
