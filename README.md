@@ -76,7 +76,7 @@
 | VMware | 11年 | ある程度できる |
 | Hyper-V | 3年 | 人に教えられる |
 | Citrix | 1年 | 少しできる |	
-| AWS | 1年 | ※1 |
+| AWS | 1年 | ※1 個人開発・勉強経験のみ|
 
 ※1 ・・・ 	
 	
@@ -165,24 +165,24 @@
 <details>
 <summary><strong>ソフトウェア・ミドルウェア</strong></summary>
     
-|OS|経験年数|レベル|
-|---|-----|-----|
-| ArcserveUDP | 10年 | 人に教えられる |
-| BackupExec | 1年 | ある程度できる |
-| Acronis Cyber Protect | 1年 | ある程度できる | 
-| Systemwalker | 8年 | 人に教えられる |
-| JP1 | 3ヶ月 | 人に教えられる |
-| AssetViewP | 半年 | 人に教えられる |
-| SKY Menu | 半年 | 少しできる |
-| HULFT | 半年 | 少しできる |
-| PowerChute（UPS制御） | 2年 | 人に教えられる |
-| Docker | 1年 | ある程度できる |
-| corosync | 半年 | ある程度できる |　※ リソース制御管理サーバ（Pacemaker+DRBD+corosync+Quota）
-| Pacemaker | 半年 | ある程度できる |
-| DRBD | 半年 | ある程度できる |
-| Quota | 半年 | ある程度できる |	
-| Wordpress | 2年 | 人に教えられる |
-| Github | 半年 | ある程度できる |
+|OS|経験年数|用途|レベル|
+|---|-----|-----|-----|
+| ArcserveUDP | 10年 | バックアップ | 人に教えられる |
+| BackupExec | 1年 | バックアップ | ある程度できる |
+| AcronisCyberProtect | 1年 | バックアップ | ある程度できる | 
+| Systemwalker | 8年 | 監視・ジョブ制御 | 人に教えられる |
+| JP1 | 3ヶ月 | ジョブ制御 | 人に教えられる |
+| AssetViewP | 半年 | 資源管理 | 人に教えられる |
+| SKYMenu | 半年 | 学習活動端末支援 | 少しできる |
+| HULFT | 半年  | ファイル連携・データ連携 | 少しできる |
+| PowerChute NetworkShutdown | 2年 | UPS制御 | 人に教えられる |
+| Docker | 1年 | コンテナ技術 | ある程度できる |
+| corosync | 半年 | クラスタ制御 | ある程度できる |　※ リソース制御管理サーバ（Pacemaker+DRBD+corosync+Quota）
+| Pacemaker | 半年 | 高可用性リソース・マネージャ・ソフトウェア | ある程度できる |
+| DRBD | 半年 | 分散ストレージシステム | ある程度できる |
+| Quota | 半年 | クォータ制御 | ある程度できる |	
+| Wordpress | 2年 | WEBサイト制作 | 人に教えられる |
+| Github | 半年 | コード管理 | ある程度できる |
 
 等
 </details>
