@@ -371,7 +371,7 @@ OS：Centos7（レプリケーション構成：計4台)<br>
 ［担当業務］基本設計<br>
 - Oracle11g database(設計)
 
-### システムリプレイス（製造[自動車]）【VMware/WindowsServer/Linux/Solaris/Oracle】(2007年4月-2012年4月（6年）)<br>
+### システム運用保守（製造[自動車]）【VMware/WindowsServer/Linux/Solaris/Oracle】(2007年4月-2012年4月（6年）)<br>
 【プロジェクト概要】自動車部品管理システムの運用保守<br>
 ［担当業務］運用保守<br>
 - SystemwalkerCentricManager(運用)/LiveHelp(運用)
